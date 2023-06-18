@@ -1,6 +1,6 @@
 # Light-Port Overview #
 
-[https://hackfs-front-6k35.vercel.app/]
+https://hackfs-front-6k35.vercel.app/
 
 [![Article DAO Youtube Link](http://img.youtube.com/vi/irwLxuqjb5A/0.jpg)](https://youtu.be/irwLxuqjb5A)
 

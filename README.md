@@ -3,13 +3,14 @@
 https://hackfs-front-6k35.vercel.app/
 
 
+![스크린샷 2023-06-19 오전 12 30 14](https://github.com/Light-Port/Light-Port/assets/59263564/1c7a4545-4747-409d-b883-50f442088ad7)
 
 The Filecoin Network and IPFS are innovative decentralized data storage solutions.
 
 The Problem
 However, they are not easy to use filecoin network due to technical difficulties experienced by users.
 There are also some problems with the services that help to solve this 'accessibility problem'.
-so, the accessibility problem is not completely solved.![스크린샷 2023-06-19 오전 12 30 14](https://github.com/Light-Port/Light-Port/assets/59263564/1c7a4545-4747-409d-b883-50f442088ad7)
+so, the accessibility problem is not completely solved.
 
 
 The existing platforms that help people upload data to the Filecoin network have two problems that hinder accessibility.

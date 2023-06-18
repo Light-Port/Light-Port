@@ -2,7 +2,6 @@
 
 https://hackfs-front-6k35.vercel.app/
 
-[![Article DAO Youtube Link](http://img.youtube.com/vi/irwLxuqjb5A/0.jpg)](https://youtu.be/irwLxuqjb5A)
 
 
 The Filecoin Network and IPFS are innovative decentralized data storage solutions.
